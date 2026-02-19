@@ -1,0 +1,23 @@
+Placeholder Images Needed:
+
+Add the following images to the public/images/ folder:
+
+1. hero-image.jpg (1200x800px) - Caregiver with senior
+2. home-care.jpg (800x600px) - In-home care scene
+3. transportation.jpg (800x600px) - Senior in vehicle
+4. tech-training.jpg (800x600px) - Senior using tablet
+5. team-photo.jpg (1200x800px) - Your team photo
+6. logo.png (200x200px) - Your company logo
+7. icon-192.png (192x192px) - App icon
+8. icon-512.png (512x512px) - App icon
+
+You can use stock photos from:
+- Unsplash.com (free, no attribution required)
+- Pexels.com (free, no attribution required)
+- Your own photos
+
+Search terms:
+- "elderly care"
+- "senior caregiver"
+- "elderly transportation"
+- "senior using technology"
