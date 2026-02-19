@@ -51,14 +51,14 @@ export default function ContactSection() {
     {
       icon: FaMapMarkerAlt,
       title: 'Address',
-      content: 'Elgin, IL 60123',
+      content: '890 oak Ridge Blvd Elgin, IL 60123',
       link: null
     },
     {
       icon: FaPhone,
       title: 'Phone',
-      content: '(123) 456-7890',
-      link: 'tel:+1234567890'
+      content: '(847)660-0423',
+      link: 'tel:+8476600423'
     },
     {
       icon: FaEnvelope,
